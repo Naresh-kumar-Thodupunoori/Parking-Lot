@@ -1,7 +1,10 @@
 package com.sst.parking_lot.Models;
 
 public enum VehicleType {
-    Two_Wheeler,
-    Four_Wheeler,
-    HeavyVehicles;
+    TWO_WHEELER,
+    FOUR_WHEELER,
+    Three_WHEELER,
+    Electric_TWO_WHEELER,
+    Electric_FOUR_WHEELER,
+    Electric_Three_WHEELER,
 }

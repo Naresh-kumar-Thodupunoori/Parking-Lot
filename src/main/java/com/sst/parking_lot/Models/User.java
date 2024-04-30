@@ -1,7 +1,9 @@
 package com.sst.parking_lot.Models;
 
 public class User {
-    private int id;
+    private  int userId;
     private String name;
-    private int UserNumber;
+    private String email;
+    private String phoneNumber;
+
 }
